@@ -7,7 +7,7 @@ exports.config = {
     runner: 'local',
     //
     // ==================
-    // Specify Test Files
+    // Specify Test Filesf
     // ==================
     // Define which test specs should run. The pattern is relative to the directory
     // of the configuration file being run.
